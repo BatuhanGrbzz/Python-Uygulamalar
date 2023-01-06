@@ -24,3 +24,9 @@
 
 ## Termometre
 - Kullanıcının vereceği cevaba göre sıcaklıklar arası değeri ölçen termometre python programı.
+
+## 5in Katları
+- Kullanıcının girdiği sayıları kontrol edip eğer ki 5in katıysa bir liste içerisinde saklayan eğer ki 5in katı değilse listeye girilen sayıları yazıp programdan çıkan uygulama.
+
+## Bilet
+- Kullanıcının seçimi ve kişi sayısına göre fiyat ücretlendirmesi yapan basit python uygulaması
